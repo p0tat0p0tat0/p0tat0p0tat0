@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 🤠
 
 <!--
 **p0tat0p0tat0/p0tat0p0tat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
